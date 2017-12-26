@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <!--name of local database-->
+    <dbname value="iValue.db"/>
+
+    <!--version of local database-->
+    <version value="1"/>
+
+    <!--tables of local database-->
+    <tables>
+        <table class="com.ices507.troy.ivalue_clock.entity.WiFiInfo"/>
+        <table class=""/>
+    </tables>
+</database>
